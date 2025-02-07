@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#conteiner1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    border: solid lightgray 2px;
+    height: 700px;
+    align-items: center;
+    width: 450px;
+}
+
+img{
+    width: 250px;
+    height: 70px;
+    margin-top: 50px;
+}
+
+
+#p1{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto', serif;
+    color: gray;
+}
+
+a{    
+      font-size: 15px;
+      text-decoration: none;
+      font-family: 'Roboto', serif;
+      background-color: color(#2f6eeb);
+      padding: 10px;
+      padding-left: 50px;
+      align-items: center;
+      color: white;
+      border-radius: 10px;
+}
+
+#digitar-email{
+    margin-top: 20px;
+}
+
+input{
+    padding: 10px;
+    width: 280px;
+    margin-top: 5px;
+    border: 2px lightgray solid;
+    border-radius: 5px;
+}
+
